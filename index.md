@@ -1,6 +1,7 @@
 # Quoc-Zuy Do's Markdown User Page
 ###### This markdown page contains all the core elements of markdown as required by the CSE 110 Week 1 Lab.
 
+![A picture of myself](PICTURE.jpg)
 
  ## Introduction
  
@@ -50,6 +51,7 @@
  - [x] Slack Sign-Up
  - [ ] Complete my CSE 110 Lab Assignment
  - [ ] Review Quiz Week 1
+
 
 
 
