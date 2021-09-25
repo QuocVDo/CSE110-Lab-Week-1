@@ -1,7 +1,7 @@
 # Quoc-Zuy Do's Markdown User Page
 ###### This markdown page contains all the core elements of markdown as required by the CSE 110 Week 1 Lab.
 
-![A picture of myself](PICTURE.jpg)
+<img src = "PICTURE.jpg" alt="a picture of myself" width="200"/>
 
  ## Introduction
  
